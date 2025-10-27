@@ -7,7 +7,7 @@ The analysis applies the Syuzhet sentiment library to identify emotional tone an
 
 # ⚙️ Approach
 
-Goal: Identify the top-rated hotels across the United States.
+Goal: Identify the states with highest number of hotels and highest hospitality rating, top-rated hotels across the United States as well as the popular platforms for hotel reviews
 
 Rather than relying solely on average star ratings, this project evaluates performance based on the number of positive reviews.
 This provides a more reliable measure of consistent guest satisfaction.
