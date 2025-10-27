@@ -42,9 +42,9 @@ Tripadvisor.com is the most popular review source, accounting for 48.4% of all r
 
 R — Data cleaning, visualization, and analysis
 
-🔗 Connect with Me
+Used Packages: tidyverse, dplyr, ggplot2, plotly — Data wrangling & visualization, tm, Syuzhet
+
+# 🔗 Connect with Me
+
 If you’d like to discuss data analysis, Python, or TV series 😄 
 Find me on [LinkedIn](https://www.linkedin.com/in/jae-hwan-kim-274190100/) or contact me via email: jkim3615@gmail.com!
-tidyverse, dplyr, ggplot2, plotly — Data wrangling & visualization
-
-tm, Syuzhet — Text mining & sentiment analysis
