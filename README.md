@@ -1,5 +1,7 @@
 # 🏨 US Hotel Reviews — EDA with Syuzhet Sentiment Analysis
 
+Full Analysis: https://www.kaggle.com/code/jackjaehwankim/eda-with-syuzhet-hotel-reviews
+
 This project presents an Exploratory Data Analysis (EDA) of 20,000 hotel reviews across the United States, using R programming for data cleaning, sentiment classification, and visualization.
 
 The analysis applies the Syuzhet sentiment library to identify emotional tone and measure customer satisfaction from written reviews. The dataset is sourced from Kaggle – Hotel Reviews
