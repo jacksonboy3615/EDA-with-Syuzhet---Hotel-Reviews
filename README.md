@@ -9,10 +9,12 @@ The analysis applies the Syuzhet sentiment library to identify emotional tone an
 
 # ⚙️ Approach
 
-Goal: Identify the states with highest number of hotels and highest hospitality rating, top-rated hotels across the United States as well as the popular platforms for hotel reviews
+Goal: Identify the states with the highest number of hotels and the highest hospitality rating, top-rated hotels across the United States, as well as the popular platforms for hotel reviews
 
-Rather than relying solely on average star ratings, this project evaluates performance based on the number of positive reviews.
+Rather than relying solely on average star ratings, this project evaluates performance based on the positive review percentage and the number of positive reviews.
 This provides a more reliable measure of consistent guest satisfaction.
+
+The positive review percentage captures the quality of guest experiences, showing how consistently visitors feel satisfied. Meanwhile, the number of positive reviews reflects the quantity or strength of customer engagement — how many guests were motivated to share positive feedback.
 
 For example:
 
